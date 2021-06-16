@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/shareId"
+        android:title="Share"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_share"
+        />
+    <item
+        android:id="@+id/infoId"
+        android:title="Info"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_dialog_info"
+        />
+    <item
+        android:id="@+id/aboutId"
+        android:title="About Us"
+        app:showAsAction="never"
+        android:icon="@android:drawable/ic_dialog_alert"
+        />
+    <item
+        android:id="@+id/settingId"
+        android:title="Setting"
+        app:showAsAction="never"
+        android:icon="@android:drawable/ic_dialog_alert"
+        />
+    <item
+        android:id="@+id/feedbackId"
+        android:title="Feedback"
+        app:showAsAction="never"
+        android:icon="@android:drawable/ic_dialog_alert"
+        />
+    <item
+        android:id="@+id/RatingId"
+        android:title="Rating Us"
+        app:showAsAction="never"
+        android:icon="@android:drawable/ic_dialog_alert"
+        />
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="info">Hello, this is a music player application.It is a nice application for playing music. It is very dynamic </string>
+    <string name="about">Hi, I am Md. Towheedul Islam.
+    I am a student of daffodil International University.I am studying Computer Science and Engineering.
+    </string>
+</resources>
